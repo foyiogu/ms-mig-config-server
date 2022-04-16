@@ -1,4 +1,4 @@
 fraud:
-  check-url: http://FRAUD/api/v1/fraud-check/{customerId}
+  check-url: http://FRAUD/api/v1/frauddd-check/{customerId}
   delete-url: http://FRAUD/api/v1/fraud-check/delete/{customerId}
     
